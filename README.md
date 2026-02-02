@@ -1,0 +1,1 @@
+# convert-decimal-number-to-an-equivalent-binary-number.
